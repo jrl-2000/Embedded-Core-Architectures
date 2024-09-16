@@ -1,0 +1,62 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+# File: C:\Users\Katayoon\Downloads\Compressed\HW5_Solution\HW5Solution\Sorter.csv
+# Generated on: Sun Dec 13 16:33:05 2020
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+altera_reserved_tck,Input,,,,PIN_V5,,,,,,,,,,,,,,
+altera_reserved_tdi,Input,,,,PIN_W5,,,,,,,,,,,,,,
+altera_reserved_tdo,Output,,,,PIN_M5,,,,,,,,,,,,,,
+altera_reserved_tms,Input,,,,PIN_P5,,,,,,,,,,,,,,
+Clk,Input,PIN_M9,3B,B3B_N0,PIN_M9,2.5 V,,,,,,,,,,,,,
+Hex0[6],Output,PIN_AA22,4A,B4A_N0,PIN_AA22,2.5 V,,,,,,,,,,,,,
+Hex0[5],Output,PIN_Y21,4A,B4A_N0,PIN_Y21,2.5 V,,,,,,,,,,,,,
+Hex0[4],Output,PIN_Y22,4A,B4A_N0,PIN_Y22,2.5 V,,,,,,,,,,,,,
+Hex0[3],Output,PIN_W21,4A,B4A_N0,PIN_W21,2.5 V,,,,,,,,,,,,,
+Hex0[2],Output,PIN_W22,4A,B4A_N0,PIN_W22,2.5 V,,,,,,,,,,,,,
+Hex0[1],Output,PIN_V21,4A,B4A_N0,PIN_V21,2.5 V,,,,,,,,,,,,,
+Hex0[0],Output,PIN_U21,4A,B4A_N0,PIN_U21,2.5 V,,,,,,,,,,,,,
+Hex1[6],Output,PIN_U22,4A,B4A_N0,PIN_U22,2.5 V,,,,,,,,,,,,,
+Hex1[5],Output,PIN_AA17,4A,B4A_N0,PIN_AA17,2.5 V,,,,,,,,,,,,,
+Hex1[4],Output,PIN_AB18,4A,B4A_N0,PIN_AB18,2.5 V,,,,,,,,,,,,,
+Hex1[3],Output,PIN_AA18,4A,B4A_N0,PIN_AA18,2.5 V,,,,,,,,,,,,,
+Hex1[2],Output,PIN_AA19,4A,B4A_N0,PIN_AA19,2.5 V,,,,,,,,,,,,,
+Hex1[1],Output,PIN_AB20,4A,B4A_N0,PIN_AB20,2.5 V,,,,,,,,,,,,,
+Hex1[0],Output,PIN_AA20,4A,B4A_N0,PIN_AA20,2.5 V,,,,,,,,,,,,,
+Hex2[6],Output,PIN_AB21,4A,B4A_N0,PIN_AB21,2.5 V,,,,,,,,,,,,,
+Hex2[5],Output,PIN_AB22,4A,B4A_N0,PIN_AB22,2.5 V,,,,,,,,,,,,,
+Hex2[4],Output,PIN_V14,4A,B4A_N0,PIN_V14,2.5 V,,,,,,,,,,,,,
+Hex2[3],Output,PIN_Y14,4A,B4A_N0,PIN_Y14,2.5 V,,,,,,,,,,,,,
+Hex2[2],Output,PIN_AA10,3B,B3B_N0,PIN_AA10,2.5 V,,,,,,,,,,,,,
+Hex2[1],Output,PIN_AB17,4A,B4A_N0,PIN_AB17,2.5 V,,,,,,,,,,,,,
+Hex2[0],Output,PIN_Y19,4A,B4A_N0,PIN_Y19,2.5 V,,,,,,,,,,,,,
+Hex3[6],Output,PIN_V19,4A,B4A_N0,PIN_V19,2.5 V,,,,,,,,,,,,,
+Hex3[5],Output,PIN_V18,4A,B4A_N0,PIN_V18,2.5 V,,,,,,,,,,,,,
+Hex3[4],Output,PIN_U17,4A,B4A_N0,PIN_U17,2.5 V,,,,,,,,,,,,,
+Hex3[3],Output,PIN_V16,4A,B4A_N0,PIN_V16,2.5 V,,,,,,,,,,,,,
+Hex3[2],Output,PIN_Y17,4A,B4A_N0,PIN_Y17,2.5 V,,,,,,,,,,,,,
+Hex3[1],Output,PIN_W16,4A,B4A_N0,PIN_W16,2.5 V,,,,,,,,,,,,,
+Hex3[0],Output,PIN_Y16,4A,B4A_N0,PIN_Y16,2.5 V,,,,,,,,,,,,,
+LEDs[7],Output,,,,PIN_AB10,,,,,,,,,,,,,,
+LEDs[6],Output,,,,PIN_R10,,,,,,,,,,,,,,
+LEDs[5],Output,,,,PIN_AB11,,,,,,,,,,,,,,
+LEDs[4],Output,,,,PIN_U12,,,,,,,,,,,,,,
+LEDs[3],Output,,,,PIN_P9,,,,,,,,,,,,,,
+LEDs[2],Output,,,,PIN_R11,,,,,,,,,,,,,,
+LEDs[1],Output,,,,PIN_Y11,,,,,,,,,,,,,,
+LEDs[0],Output,,,,PIN_AA12,,,,,,,,,,,,,,
